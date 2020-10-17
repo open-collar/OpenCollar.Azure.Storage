@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCollar.Azure.Storage.Emulator.html",
-          "hash": "0x4G2/9RKLEu08MoiEKA/A=="
+          "hash": "5DmWzfJj8LlC8SBDTDA4PQ=="
         }
       },
       "is_incremental": false,
@@ -30,7 +30,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCollar.Azure.Storage.EmulatorAction.html",
-          "hash": "bzTrTJhIs1AAP0o0f3qkeQ=="
+          "hash": "bpjlWTSmir0nBPLLhSyucQ=="
         }
       },
       "is_incremental": false,
@@ -42,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCollar.Azure.Storage.EmulatorStatus.html",
-          "hash": "H4iQ52nbIIQWs8x5T89xww=="
+          "hash": "DCINCrpTcFLY05nGvh4/qA=="
         }
       },
       "is_incremental": false,
@@ -177,10 +177,11 @@
         "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
-        "ManagedReferenceDocumentProcessor": {
+        "TocDocumentProcessor": {
           "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
-          "total_file_count": 4,
+          "total_file_count": 0,
           "skipped_file_count": 0
         },
         "ConceptualDocumentProcessor": {
@@ -189,11 +190,10 @@
           "total_file_count": 3,
           "skipped_file_count": 0
         },
-        "TocDocumentProcessor": {
+        "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
-          "total_file_count": 0,
+          "total_file_count": 4,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
