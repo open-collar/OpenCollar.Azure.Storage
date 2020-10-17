@@ -14,7 +14,7 @@
         <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
         <Authors>Jonathan David Evans (jevans@open-collar.org.uk)</Authors>
         <Description>
-            Tools for interacting with and managing Azure Storage Accounts.
+            A library of tools for interacting with and managing Azure Storage Accounts.
         </Description>
         <Copyright>Copyright © 2020 Jonathan Evans (jevans@open-collar.org.uk).</Copyright>
         <PackageLicenseFile>LICENSE</PackageLicenseFile>

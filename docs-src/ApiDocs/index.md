@@ -1,6 +1,6 @@
 # OpenCollar.Azure.Storage
 
-Tools for interacting with and managing Azure Storage Accounts.
+A library of tools for interacting with and managing Azure Storage Accounts.
 
 ## NuGet Package
 
@@ -23,7 +23,7 @@ Package and installation instructions at: https://www.nuget.org/packages/OpenCol
 
 # Usage
 
-Tools for interacting with and managing Azure Storage Accounts.
+A library of tools for interacting with and managing Azure Storage Accounts.
 
 # Related Projects
 

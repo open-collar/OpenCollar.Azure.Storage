@@ -17,7 +17,7 @@
 
 
 
-Tools for interacting with and managing Azure Storage Accounts.
+A library of tools for interacting with and managing Azure Storage Accounts.
 
  * [API Documentation](https://open-collar.github.io/OpenCollar.Azure.Storage/)
  * View package in [nuget.org](https://nuget.org) at: https://www.nuget.org/packages/OpenCollar.Azure.Storage/
