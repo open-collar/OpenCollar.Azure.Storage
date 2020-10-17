@@ -32,7 +32,7 @@ namespace OpenCollar.Azure.Storage
         /// <summary>The name of the Azure storage emulator executable.</summary>
         public const string EmulatorExeName = @"AzureStorageEmulator.exe";
 
-        /// <summary>The period of time that the emulator EXE will be allowed to run before the attempt is aborted.</summary>
+        /// <summary>The period of time that the emulator EXE will be allowed to run before the attempt is aborted, in milliseconds.</summary>
         public const int Timeout = 30_000 /* ms */;
 
         /// <summary>Initializes a new instance of the <see cref="Emulator"/> class.</summary>
