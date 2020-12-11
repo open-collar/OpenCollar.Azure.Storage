@@ -14,15 +14,15 @@
     "title": "Namespace OpenCollar.Azure.Storage | API Documentation",
     "keywords": "Namespace OpenCollar.Azure.Storage Classes Emulator Wraps up the functionality of the Azure Storage Emulator command line tool. EmulatorStatus Executes the storage emulator and returns the represents the resulting status. Enums EmulatorAction Defines the actions that can be performed by the Azure Storage Emulator command."
   },
-  "index.html": {
-    "href": "index.html",
-    "title": "OpenCollar.Azure.Storage | API Documentation",
-    "keywords": "OpenCollar.Azure.Storage A library of tools for interacting with and managing Azure Storage Accounts. NuGet Package Package and installation instructions at: https://www.nuget.org/packages/OpenCollar.Azure.Storage/ Project Latest Build: Source Code on GitHub Issue Tracking on GitHub Documentation on GitHub Pages Usage A library of tools for interacting with and managing Azure Storage Accounts. Related Projects OpenCollar.Azure.Storage OpenCollar.Azure.ReliableQueue OpenCollar.Extensions OpenCollar.Extensions.ApplicationInsights OpenCollar.Extensions.Collections OpenCollar.Extensions.Configuraton OpenCollar.Extensions.Environment OpenCollar.Extensions.IO OpenCollar.Extensions.Logging OpenCollar.Extensions.Security OpenCollar.Extensions.Threading OpenCollar.Extensions.Validation"
-  },
   "usage/index.html": {
     "href": "usage/index.html",
     "title": "Basics | API Documentation",
     "keywords": "Basics The purpose of the libarary is to provide simple and concise extension methods that allow arguments and state to be validated efficiently at runtime."
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "OpenCollar.Azure.Storage | API Documentation",
+    "keywords": "OpenCollar.Azure.Storage A library of tools for interacting with and managing Azure Storage Accounts. NuGet Package Package and installation instructions at: https://www.nuget.org/packages/OpenCollar.Azure.Storage/ Project Latest Build: Source Code on GitHub Issue Tracking on GitHub Documentation on GitHub Pages Usage A library of tools for interacting with and managing Azure Storage Accounts. Related Projects OpenCollar.Azure.Storage OpenCollar.Azure.ReliableQueue OpenCollar.Extensions OpenCollar.Extensions.ApplicationInsights OpenCollar.Extensions.Collections OpenCollar.Extensions.Configuraton OpenCollar.Extensions.Environment OpenCollar.Extensions.IO OpenCollar.Extensions.Logging OpenCollar.Extensions.Security OpenCollar.Extensions.Threading OpenCollar.Extensions.Validation"
   },
   "api/index.html": {
     "href": "api/index.html",
