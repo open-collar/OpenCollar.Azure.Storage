@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "F:/Users/jevans/source/repos/open-collar/OpenCollar.Azure.Storage/docs-src/ApiDocs",
+  "source_base_path": "/home/runner/work/OpenCollar.Azure.Storage/OpenCollar.Azure.Storage/docs-src/ApiDocs",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCollar.Azure.Storage.Emulator.html",
-          "hash": "G23QBZEcyNSP8OtcEJ22DQ=="
+          "hash": "rrRkNJ0/BDqdCHNNoytAfA=="
         }
       },
       "is_incremental": false,
@@ -30,7 +30,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCollar.Azure.Storage.EmulatorAction.html",
-          "hash": "uqM7UPEMlwWeO1pmQsp77g=="
+          "hash": "vr2vj6t0yFAp1sROPqIitw=="
         }
       },
       "is_incremental": false,
@@ -42,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCollar.Azure.Storage.EmulatorStatus.html",
-          "hash": "PFdSzrs//ZGet2ODGwDAsg=="
+          "hash": "tqZPVhuNtEVOTluUWCgMbg=="
         }
       },
       "is_incremental": false,
@@ -54,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCollar.Azure.Storage.html",
-          "hash": "J+yNLPqa3XCESqpkFjr1vA=="
+          "hash": "wvlnORY6o/ml1JCmnpLNbw=="
         }
       },
       "is_incremental": false,
@@ -66,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "NseHTVxBH79tPDWbp+yjHg=="
+          "hash": "8QYmOFsvCyoDpHbVXqQMew=="
         }
       },
       "is_incremental": false,
@@ -123,7 +123,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "Tqpy8PFuhOtZ8pB8ppDYoQ=="
+          "hash": "ijDpvTBrPjuIe/WPdFqyFg=="
         }
       },
       "is_incremental": false,
@@ -147,7 +147,7 @@
       "output": {
         ".html": {
           "relative_path": "usage/index.html",
-          "hash": "C23qmcWsb6ga+fnHFFJq4A=="
+          "hash": "AzknEaqCKrJ9sbAzQn0LSg=="
         }
       },
       "is_incremental": false,
@@ -170,24 +170,25 @@
     {
       "status": {
         "can_incremental": false,
-        "details": "Disable incremental build by force rebuild option.",
+        "details": "Cannot build incrementally because last build info is missing.",
         "incrementalPhase": "build",
         "total_file_count": 0,
         "skipped_file_count": 0,
-        "full_build_reason_code": "ForceRebuild"
+        "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
           "total_file_count": 0,
-          "skipped_file_count": 0
-        },
-        "ManagedReferenceDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build",
-          "total_file_count": 4,
           "skipped_file_count": 0
         },
         "ConceptualDocumentProcessor": {
@@ -196,11 +197,10 @@
           "total_file_count": 3,
           "skipped_file_count": 0
         },
-        "TocDocumentProcessor": {
+        "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
-          "total_file_count": 0,
+          "total_file_count": 4,
           "skipped_file_count": 0
         }
       }
